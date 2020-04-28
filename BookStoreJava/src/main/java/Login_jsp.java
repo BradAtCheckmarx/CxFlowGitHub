@@ -12,7 +12,7 @@ public class Login_jsp extends HttpJspBase {
 //   Generated with CodeCharge  v.1.2.0
 //   JSP.ccp build 05/21/2001
 //
-  
+
 
   static final String CRLF = "\r\n";
 
@@ -24,7 +24,7 @@ public class Login_jsp extends HttpJspBase {
   static final int adSearch_ = 4;
   static final int ad_Search_ = 5;
   static final String appPath   ="/";
-  //restarting cxflow... :(
+  //restarting ngrok... :(
 
 //Database connection string
 
