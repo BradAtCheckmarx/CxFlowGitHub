@@ -5,7 +5,7 @@ import org.apache.jasper.runtime.*;
 
 public class Login_jsp extends HttpJspBase {
 
-  
+
 
 //
 //   Filename: Common.jsp
@@ -21,6 +21,7 @@ public class Login_jsp extends HttpJspBase {
   static final int adDate = 2;
   static final int adNumber = 3;
   static final int adSearch_ = 4;
+  
   static final int ad_Search_ = 5;
   static final String appPath   ="/";
 
