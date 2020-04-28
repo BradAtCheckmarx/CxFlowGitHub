@@ -23,7 +23,7 @@ public class Login_jsp extends HttpJspBase {
   static final int adSearch_ = 4;
   static final int ad_Search_ = 5;
   static final String appPath   ="/";
-  //stupid API key
+  //restarting cxflow... :(
 
 //Database connection string
 
