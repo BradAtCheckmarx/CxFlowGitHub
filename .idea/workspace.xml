@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3affd2c5-b179-4488-b505-ded6b91fbc1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BookStoreJava/src/main/java/Login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreJava/src/main/java/Login_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,7 @@
   <component name="ProjectId" id="1azFTj6xrTu4fzgpxkHXW3vnLoc" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.checkmarx.cxviewer.ui.CxUrlAndCredentialsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588060987280</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Restarted the CxFlow server. Looks like it didn't read in the new config file...... :(">
+      <created>1588061255423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588061255423</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,10 +91,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Commit and push to protected branch" />
     <MESSAGE value="Adding a newline" />
     <MESSAGE value="Removing the newline from previous scan" />
     <MESSAGE value="Changed the API information form the stupid writeup." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the API information form the stupid writeup." />
+    <MESSAGE value="Restarted the CxFlow server. Looks like it didn't read in the new config file...... :(" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restarted the CxFlow server. Looks like it didn't read in the new config file...... :(" />
   </component>
 </project>
